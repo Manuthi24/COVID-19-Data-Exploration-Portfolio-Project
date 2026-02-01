@@ -1,4 +1,12 @@
 # 🌍 COVID-19 Data Exploration Portfolio Project
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red)
+![T--SQL](https://img.shields.io/badge/T--SQL-Advanced-blue)
+![Data Exploration](https://img.shields.io/badge/Data-Exploration-green)
+![CTEs](https://img.shields.io/badge/SQL-CTEs%20%7C%20Window%20Functions-blueviolet)
+![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-darkgreen)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
 
 ## 📌 Project Overview
 This project is the **first part of a four-part Data Analyst portfolio series**. It involves an extensive **data exploration of global COVID-19 data** using **SQL Server**.  
